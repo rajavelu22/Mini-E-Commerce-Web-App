@@ -1,2 +1,3 @@
 ./backend/config/.env
 ./frontend/.env
+./backend/node_modules
